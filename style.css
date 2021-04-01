@@ -1,0 +1,36 @@
+#logo{
+
+}
+
+#hed{
+
+	text-align: left;
+	margin-top: 30px;
+	margin-bottom: 25px
+
+}
+
+#cont{
+	background-color: #0080ff;
+}
+
+.images{
+	width: 400px;
+	height: 400px;
+	margin-top: 70px;
+}
+
+#file{
+	margin-top: 0px;
+}
+
+.count{
+	margin-top: 25px;
+
+}
+
+#footer{
+
+	background-color: black;
+}
+
