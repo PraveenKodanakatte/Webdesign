@@ -1,17 +1,28 @@
-#logo{
-
+.btn{
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 10px;
+	background-color: white;
+    color: black;
+    border: 1px solid gray;
+    width: 250px;
 }
-
 #hed{
 
 	text-align: left;
+	margin-left: 50px;
 	margin-top: 30px;
 	margin-bottom: 25px
 
 }
 
+#line1{
+	background-color: black;
+}
+
 #cont{
-	background-color: #0080ff;
+	background-color: 	#1a53ff;
+
 }
 
 .images{
@@ -34,3 +45,46 @@
 	background-color: black;
 }
 
+#colr{
+	background-color: #111111;
+}
+
+#es{
+	padding-top: 55px;
+	padding-bottom: 55px;
+}
+
+.navbtn {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 0px 0px;
+  text-align: center;
+  font-size: 17px;
+  margin: 4px 2px;
+  opacity: 0.9;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.navbtn:hover {opacity: 1}
+
+#soci{
+	color:red;
+	width: 20px;
+	margin-left: 20px;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+
+#fot{
+	font-size: 12px;
+}
+
+#las{
+	margin-top: 25px;
+	margin-left:85px;
+	color:darkgray;
+	font-size:12px;
